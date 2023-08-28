@@ -1,0 +1,32 @@
+Quantum computing is a type of computing that uses the principles of quantum mechanics to process information. 
+It is based on the idea that a quantum system can be used to represent and manipulate information in a way that is fundamentally different from traditional computing. 
+computing has the potential to revolutionize the way we process data, allowing us to solve problems that are currently impossible to solve with traditional computing methods.
+
+Quantum Computer use 'QUBITS' instead of 'BITS'.
+Qubits casn also be in a superposition which allows them to be both 1 and 0 at the same time. 
+While bits can only be in either 0 or 1 position.
+This allows quantum computers to solve more complex problems that even today's supercomputers would take years to solve while a quantum computer computer solves it in hours.
+
+The Analogy - for example we are playing a game in which you live in an island and progress through by advancing your math.
+Fist humans humans were calculating with their own minds, So they are walking.
+Then First Computers came which increased the amount of data we can store and also increased our calculation power, Thus we are now riding horses.
+Then As we progressed computers became more and more powerful which led us to modern age or today now we have big buildings and structures but we can't explore the sea till now.
+These computers are cars.
+Quantum computers are like boats, They are not necessarily faster than cars. They are just made for a different purpose.
+And thats the difference between quantum computers and traditional computers.
+
+Quantum computing can be used for cyber security to prevent cyber attacks by utilizing the principles of quantum mechanics.
+Quantum computers can be used to create secure encryption algorithms that are virtually impossible to crack.
+This is because quantum computers can process information in ways that are impossible for a traditional computer.
+For example, a quantum computer can use a process called quantum entanglement to create a secure encryption key that is virtually impossible to break.
+
+In addition, quantum computing can be used to create secure communication networks that are resistant to interception and manipulation.
+This is because quantum computers are able to process information in a way that is fundamentally different from traditional computers.
+For example, quantum computers can use a process called quantum teleportation to securely transmit information from one point to another without the risk of interception or manipulation.
+
+Finally, quantum computing can be used to create secure authentication systems that are virtually impossible to spoof.
+This is because quantum computers can use a process called quantum cryptography to create an authentication system that is virtually impossible to break.
+This is because quantum cryptography uses the principles of quantum mechanics to create an authentication system that is virtually unbreakable.
+
+In conclusion, quantum computing has the potential to revolutionize the way we process data, allowing us to solve problems that are currently impossible to solve with traditional computing methods.
+It can be used for cyber security to prevent cyber attacks by utilizing the principles of quantum mechanics to create secure encryption algorithms, secure communication networks, and secure authentication systems.
